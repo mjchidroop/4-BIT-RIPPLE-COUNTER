@@ -46,7 +46,8 @@ end
 endmodule
 ```
 ```text
- Developed by: CHIDROOP M J RegisterNumber: 212225240029
+ Developed by: CHIDROOP M J
+ RegisterNumber: 212225240029
 ```
 
 
